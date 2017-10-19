@@ -1,0 +1,39 @@
+<ApplicationPackageLicenses>
+    <ApplicationPackageLicense>
+        <CompanyName>Smartface User</CompanyName>
+        <LicenseName>Bilyoner</LicenseName>
+        <SASVersion>v5.0.0</SASVersion>
+        <CreateDate>02.09.2017 11:57:29</CreateDate>
+        <ExpireDate>00.09.2027 11:57:29</ExpireDate>
+        <LicenseType>Professional</LicenseType>
+        <PackageType>iOS</PackageType>
+        <PackageName>io.smartface.bilyoner</PackageName>
+        <PackageFeatures>
+            <PackageFeature>
+                <FeatureName>Feature</FeatureName>
+                <FeatureValue>Feature</FeatureValue>
+            </PackageFeature>
+        </PackageFeatures>
+        <TripleDESKey>XW/8NzmK6L0ga/efD+wo6EQxnS9QDLBXLH4Ujj/XfyyPNkM2X0lUy9RAw/vmpGnW8fyN6uOZ6/585UOX3jNiI0BA8UmiFg6/wGOAa1JEA7xr+Rhb5XODu5I1CtjvMTU5D/Mnwhd3p6ou9Hh90+K7j2G0+PPo30igMI7rTjYBLQY=</TripleDESKey>
+        <SignData></SignData>
+    </ApplicationPackageLicense>
+    <ApplicationPackageLicense>
+        <CompanyName>Smartface User</CompanyName>
+        <LicenseName>Bilyoner</LicenseName>
+        <SASVersion>v5.0.0</SASVersion>
+        <CreateDate>02.09.2017 11:57:29</CreateDate>
+        <ExpireDate>00.09.2027 11:57:29</ExpireDate>
+        <LicenseType>Professional</LicenseType>
+        <PackageType>Android</PackageType>
+        <PackageName>io.smartface.bilyoner</PackageName>
+        <PackageFeatures>
+            <PackageFeature>
+                <FeatureName>Feature</FeatureName>
+                <FeatureValue>Feature</FeatureValue>
+            </PackageFeature>
+        </PackageFeatures>
+        <TripleDESKey>XW/8NzmK6L0ga/efD+wo6EQxnS9QDLBXLH4Ujj/XfyyPNkM2X0lUy9RAw/vmpGnW8fyN6uOZ6/585UOX3jNiI0BA8UmiFg6/wGOAa1JEA7xr+Rhb5XODu5I1CtjvMTU5D/Mnwhd3p6ou9Hh90+K7j2G0+PPo30igMI7rTjYBLQY=</TripleDESKey>
+        <SignData></SignData>
+    </ApplicationPackageLicense>
+    <TripleDESKeyValue>m50WC0SmljTc21NZVZvD3E+Ul6bckZJ8</TripleDESKeyValue>
+</ApplicationPackageLicenses>
